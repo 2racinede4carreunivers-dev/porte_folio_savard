@@ -1,3 +1,6 @@
 [submodule "formation_evolutive"]
 	path = formation_evolutive
 	url = https://github.com/2racinede4carreunivers-dev/formation_evolutive_savard.git
+[submodule "univers_carre"]
+	path = univers_carre
+	url = https://github.com/2racinede4carreunivers-dev/analyse-de-la-conjecture-zeta-riemann-savard.git
