@@ -1,0 +1,62 @@
+# ============================
+#   Ignorer fichiers LaTeX
+# ============================
+
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# ============================
+#   Ignorer PDF générés
+#   (si tu veux garder seulement le .tex)
+# ============================
+# Décommente si tu veux ignorer les PDF :
+# *.pdf
+
+# ============================
+#   Ignorer fichiers temporaires
+# ============================
+
+*.tmp
+*.bak
+*.backup
+*.swp
+*.DS_Store
+Thumbs.db
+
+# ============================
+#   Ignorer dossiers de build
+# ============================
+
+build/
+out/
+dist/
+temp/
+
+# ============================
+#   Ignorer VS Code
+# ============================
+
+.vscode/
+*.code-workspace
+
+# ============================
+#   Ignorer images temporaires
+# ============================
+
+*.png~
+*.jpg~
+*.svg~
